@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '設計二乙 41023208 廖子儀 \n', 'tags': '', 'url': 'About.html'}, {'title': 'w13', 'text': '\n \n \n \n', 'tags': '', 'url': 'w13.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '設計二乙 41023208 廖子儀 \n', 'tags': '', 'url': 'About.html'}, {'title': 'w13', 'text': '', 'tags': '', 'url': 'w13.html'}, {'title': 'pj3', 'text': '\n \n \n \n', 'tags': '', 'url': 'pj3.html'}]};
